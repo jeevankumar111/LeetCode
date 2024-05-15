@@ -1,7 +1,7 @@
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
-        Do not return anything, modify nums1 in-place instead0000000000.
+        Do not return anything, modify nums1 in-place instead00000000000.
         last index num 1
         """
         last = m+n-1
